@@ -15,7 +15,7 @@ Insomnium is a 100% local and privacy-focused open-source API client for testing
 
 ## Current Status
 
-Due to another related project, this repo is no longer being actively maintained. (You are welcomed to fork this and continue from here on)
+Since upstream is currently inactive, I am creating this fork to add some features that I would enjoy. Namely, ssh access for git sync.
 
 ## General
 
